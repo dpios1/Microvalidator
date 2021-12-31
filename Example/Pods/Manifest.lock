@@ -1,0 +1,16 @@
+PODS:
+  - Microvalidator (1.0.1)
+
+DEPENDENCIES:
+  - Microvalidator (from `../Microvalidator`)
+
+EXTERNAL SOURCES:
+  Microvalidator:
+    :path: "../Microvalidator"
+
+SPEC CHECKSUMS:
+  Microvalidator: 2940a2d9d4d0063a864b1630ac8d838d441135cc
+
+PODFILE CHECKSUM: 694f114607667336f83faf2c38dcd4af95ca8b76
+
+COCOAPODS: 1.10.2

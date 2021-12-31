@@ -1,0 +1,6 @@
+framework module Microvalidator {
+  umbrella header "Microvalidator-umbrella.h"
+
+  export *
+  module * { export * }
+}

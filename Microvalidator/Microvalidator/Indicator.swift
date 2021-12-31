@@ -9,7 +9,7 @@ import Foundation
 import UIKit
 
 open class Indicator {
-    static let shared = Indicator()
+    public static let shared = Indicator()
     
     var blurImg = UIImageView()
     var indicator = UIActivityIndicatorView()
